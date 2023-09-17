@@ -35,7 +35,8 @@ Hi, I'm Charles Muller, I've been studying software development for 1 year. I ha
 
 ## 📈 Statcs
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CharlesMSF&theme=dark)
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=charlesmsf&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CharlesMSF&theme=dark)
+
 
